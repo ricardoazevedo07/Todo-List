@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RICARDOAZEVEDO\\Desktop\\Projeto ToDo\\ToDo-Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37D19345-3978-4180-BEB8-2F76503ECB21}|ToDo\\ToDo.csproj|c:\\users\\ricardoazevedo\\desktop\\projeto todo\\todo-back\\todo\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D19345-3978-4180-BEB8-2F76503ECB21}|ToDo\\ToDo.csproj|solutionrelative:todo\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D19345-3978-4180-BEB8-2F76503ECB21}|ToDo\\ToDo.csproj|c:\\users\\ricardoazevedo\\desktop\\projeto todo\\todo-back\\todo\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D19345-3978-4180-BEB8-2F76503ECB21}|ToDo\\ToDo.csproj|solutionrelative:todo\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D19345-3978-4180-BEB8-2F76503ECB21}|ToDo\\ToDo.csproj|c:\\users\\ricardoazevedo\\desktop\\projeto todo\\todo-back\\todo\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D19345-3978-4180-BEB8-2F76503ECB21}|ToDo\\ToDo.csproj|solutionrelative:todo\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D19345-3978-4180-BEB8-2F76503ECB21}|ToDo\\ToDo.csproj|c:\\users\\ricardoazevedo\\desktop\\projeto todo\\todo-back\\todo\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D19345-3978-4180-BEB8-2F76503ECB21}|ToDo\\ToDo.csproj|solutionrelative:todo\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 553,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDOAZEVEDO\\Desktop\\Projeto ToDo\\ToDo-Back\\ToDo\\Repositories\\TarefaRepository.cs",
+              "RelativeDocumentMoniker": "ToDo\\Repositories\\TarefaRepository.cs",
+              "ToolTip": "C:\\Users\\RICARDOAZEVEDO\\Desktop\\Projeto ToDo\\ToDo-Back\\ToDo\\Repositories\\TarefaRepository.cs",
+              "RelativeToolTip": "ToDo\\Repositories\\TarefaRepository.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:57:48.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefaService.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDOAZEVEDO\\Desktop\\Projeto ToDo\\ToDo-Back\\ToDo\\Services\\TarefaService.cs",
+              "RelativeDocumentMoniker": "ToDo\\Services\\TarefaService.cs",
+              "ToolTip": "C:\\Users\\RICARDOAZEVEDO\\Desktop\\Projeto ToDo\\ToDo-Back\\ToDo\\Services\\TarefaService.cs",
+              "RelativeToolTip": "ToDo\\Services\\TarefaService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:57:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDOAZEVEDO\\Desktop\\Projeto ToDo\\ToDo-Back\\ToDo\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ToDo\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\RICARDOAZEVEDO\\Desktop\\Projeto ToDo\\ToDo-Back\\ToDo\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ToDo\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:48:23.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDOAZEVEDO\\Desktop\\Projeto ToDo\\ToDo-Back\\ToDo\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "ToDo\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\RICARDOAZEVEDO\\Desktop\\Projeto ToDo\\ToDo-Back\\ToDo\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "ToDo\\Controllers\\TarefaController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADgv0AAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:48:13.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
